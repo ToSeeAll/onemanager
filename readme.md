@@ -1,7 +1,7 @@
 [中文readme](readme_cn.md)  
 
 # NOTICE: 
-
+https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FToSeeAll%2Fconemanager
   The Releases is used as archive, not newest code.  
 
   Please read the descriptions of settings before raising an issue.  
